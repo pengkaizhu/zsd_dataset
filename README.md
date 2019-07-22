@@ -2,11 +2,13 @@
 This repository contains the datasets used in [Zero Shot Detection](https://arxiv.org/pdf/1803.07113.pdf) by
 [Pengkai Zhu](https://github.com/pengkaizhu), [Hanxiao Wang](https://github.com/STARrapier), [Tolga Bolukbasi](https://github.com/tolga-b) and Venkatesh Saligrama.
 ```
-@article{zhu2018zero,
-  title={Zero-Shot Detection},
-  author={Zhu, Pengkai and Wang, Hanxiao and Bolukbasi, Tolga and Saligrama, Venkatesh},
-  journal={arXiv preprint arXiv:1803.07113},
-  year={2018}
+@article{Zhu_2019,
+   title={Zero Shot Detection},
+   DOI={10.1109/tcsvt.2019.2899569},
+   journal={IEEE Transactions on Circuits and Systems for Video Technology},
+   publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+   author={Zhu, Pengkai and Wang, Hanxiao and Saligrama, Venkatesh},
+   year={2019}
 }
 ```
 
